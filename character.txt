@@ -1,0 +1,6 @@
+Strength 6
+Constitution 1
+Wisdom 7
+Intelligence 5
+Dexterity 15
+Charisma 10
